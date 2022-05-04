@@ -19,12 +19,15 @@ Output should be:
 {DocID} TAB {DocID1}:{Score1} TAB {DocID2}:{Score2} TAB {DocID3}:{Score3}, … NEWLINE
 ```
 
+# 💡 Solution 
 
 I have decided to use BERT and cosine similarity. For the full project description please review the `00_document_similarity_problem.ipynb` Jupyter Notebook.
 
 Below is the graphical representation of the **cosine similarity** of 2 documents encoded as vectors.
 
 ![](images/cosine_similarity.png)
+
+</br>
 
 # 👨‍💻 Usage
 
