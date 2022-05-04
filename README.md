@@ -18,6 +18,7 @@ Output should be:
 
 {DocID} TAB {DocID1}:{Score1} TAB {DocID2}:{Score2} TAB {DocID3}:{Score3}, … NEWLINE
 ```
+</br>
 
 # 💡 Solution 
 
@@ -40,3 +41,5 @@ python -u main.py
 ```
 
 The *output.tsv* file will be saved in the folder ***data***.
+
+</br>
